@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/ec2-user/nodejs
+./node_modules/.bin/mocha /home/ec2-user/nodejs/Sample-NodeJs/test/test.js
+
